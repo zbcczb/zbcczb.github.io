@@ -1,2 +1,3 @@
 requests
 flask
+libpython2.7-stdlib
